@@ -4,6 +4,7 @@ A lot of useful java links to whom it may concern
 
 ## Java Release Version
 ### Java 8
+- [Java Platform Standard Edition 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 #### Lectures
 - [Java 8 Linkedin Learning](https://www.linkedin.com/learning/java-8-for-professionals/java-8-is-it-for-me)
 - [Java 8 Youtube Functional way on practice](https://www.youtube.com/watch?v=zolbIZS4SRQ)
